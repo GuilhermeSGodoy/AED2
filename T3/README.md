@@ -1,2 +1,3 @@
-# AED2
-Repositório para os trabalhos da disciplina Algoritmos e Estruturas de Dados 2, ministrada pelo professor Mário César no semestre 2021/1 da Universidade Federal de São Carlos.
+# T3: Grafos
+
+O terceiro trabalho consiste na aplicação dos conceitos aprendidos até o momento para resolver o problema proposto, envolvendo grafos.
